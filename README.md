@@ -2,8 +2,6 @@
 
 #### Welcome to my GitHub profile.
 
-<br>
-
 #### 📖 About Me:
 
 - 🎓 BE in Computer Engineering.
