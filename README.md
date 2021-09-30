@@ -4,7 +4,6 @@
 
 #### 📖 About Me:
 
-- 🎓 BE in Computer Engineering.
 - 🌱 I’m currently learning MERN stack.
 - ❤️ I love to code, build websites and web applications.
 - 📚 Learning new things, hard working and friendly.
